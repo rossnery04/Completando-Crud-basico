@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Práctica 6 - API REST de productos
 
 ## Cómo ejecutar
@@ -20,3 +21,6 @@ El servidor corre en http://localhost:3000
 | DELETE | /productos/:id    | Completado    |
 
 Lee el documento de la práctica para ver los requisitos de cada método.
+=======
+# Completando-Crud-basico
+>>>>>>> 946e754e277c14ce52ab2dab88be91cccdb0acca
